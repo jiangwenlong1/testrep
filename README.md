@@ -27,7 +27,7 @@ The program generates:
 - Functions
 
 ## Author
-Jiang Wenlong
+JIANG WENLONG
 
 ## License
 This project is licensed under the MIT License.
